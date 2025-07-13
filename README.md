@@ -14,3 +14,6 @@
 
 ![Sona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sona-gj&show_icons=true&theme=default)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sona-gj&layout=compact)
+
+

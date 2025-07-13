@@ -11,3 +11,6 @@
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sona-gj/)  
 
 ⚡ Fun fact: I can survive without coffee or tea  
+
+![Sona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sona-gj&show_icons=true&theme=default)
+

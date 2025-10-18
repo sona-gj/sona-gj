@@ -37,9 +37,6 @@
 🔹 [**HiHydra**](https://www.hihydra.com/)  
 *AI-powered hydration tracking app — frontend lead & contributor.*  
 
-🔹 [**DevJoblin**](https://devjoblin.me/)  
-*Personal portfolio showcasing projects, skills, and cloud-native deployments.*  
-
 👉 Check my pinned repos for more!
 
 ---

@@ -12,8 +12,8 @@
 
 ⚡ Fun fact: I can survive without coffee or tea  
 
-![Sona's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sona-gj&show_icons=true&theme=default)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sona-gj&layout=compact)
 
 
